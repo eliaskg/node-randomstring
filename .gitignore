@@ -6,3 +6,4 @@ test.js
 .idea/
 dist/
 bun.lock
+.claude/
