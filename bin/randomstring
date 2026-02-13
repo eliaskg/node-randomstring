@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var randomstring = require('..');
+var randomstring = require('../dist/index.js');
 
 var options = {};
 

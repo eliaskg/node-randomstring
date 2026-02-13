@@ -15,7 +15,11 @@ npm install randomstring
 ## Usage
 
 ```javascript
-var randomstring = require("randomstring");
+// CommonJS
+const randomstring = require("randomstring");
+
+// ES Modules
+import randomstring from "randomstring";
 
 randomstring.generate();
 // >> "XwPp9xazJ0ku5CZnlmgAx2Dld8SHkAeT"
@@ -45,6 +49,8 @@ randomstring.generate({
 // >> "cb(generatedString) {}"
 
 ```
+
+TypeScript types are included out of the box — no need to install `@types` separately.
 
 ## API
 
@@ -81,10 +87,11 @@ randomstring.generate({
     $ randomstring length=24 charset=github readable
     > hthbtgiguihgbuttuutubugg
 
-## Tests
+## Development
 
 ```
 npm install
+npm run build
 npm test
 ```
 

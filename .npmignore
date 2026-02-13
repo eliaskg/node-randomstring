@@ -1,3 +1,6 @@
 .DS_Store
 *.log
 test.js
+src/
+tsconfig.json
+tsup.config.ts
