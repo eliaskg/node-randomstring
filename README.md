@@ -1,12 +1,12 @@
 # node-randomstring
 
-[![Build Status](https://travis-ci.org/klughammer/node-randomstring.svg?branch=master)](https://travis-ci.org/klughammer/node-randomstring) [![Download Stats](https://img.shields.io/npm/dm/randomstring.svg)](https://github.com/klughammer/node-randomstring)
+[![CI](https://github.com/eliaskg/node-randomstring/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/eliaskg/node-randomstring/actions/workflows/ci.yml) [![npm version](https://img.shields.io/npm/v/randomstring.svg)](https://www.npmjs.com/package/randomstring) [![Download Stats](https://img.shields.io/npm/dm/randomstring.svg)](https://www.npmjs.com/package/randomstring) [![license](https://img.shields.io/npm/l/randomstring.svg)](LICENSE)
 
 Library to help you create random strings.
 
 ## Installation
 
-To install randomstring, use [npm](http://github.com/npm/npm):
+To install randomstring, use [npm](https://www.npmjs.com/):
 
 ```
 npm install randomstring
