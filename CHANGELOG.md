@@ -1,3 +1,10 @@
+1.3.2 / Oct 01, 2026
+==================
+  * Moved repository to my personal github account
+  * Fixed repository URL, since GitHub disabled the git protocol
+  * Replaced Travis CI with GitHub Actions
+  * No functional change to the library
+
 1.3.1 / Jan 10, 2025
 ==================
   * Updated randombytes
