@@ -25,5 +25,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "bin": "bin/randomstring"
+  "bin": {
+    "randomstring": "bin/randomstring"
+  }
 }
